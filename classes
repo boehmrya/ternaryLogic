@@ -1,0 +1,16 @@
+
+Errors.java
+ScanSupport.java
+Simulation.java
+
+Wire.java
+
+Gate.java
+  MaxGate.java
+  MinGate.java
+  NegGate.java
+  IsFGate.java
+  IsTGate.java
+  IsUGate.java
+
+TernaryLogic.java
