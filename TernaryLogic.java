@@ -13,9 +13,7 @@ import java.util.Scanner;
  *  the input file name, the interval between successive outputs, and the
  *  total duration of the simulation.
  *
- *  @author Douglas Jones
- *  @version 2017-04-20
- *  This code is largely ripped from Version 2017-04-06, with comment changes.
+ *  @author Ryan Boehm
  *
  *  @see Wire
  *  @see Gate

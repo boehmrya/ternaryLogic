@@ -1,12 +1,6 @@
 
 /** abstract class defining generic properties of logic gates
- *  @author Douglas Jones
  *  @author Ryan Boehm
- *  @author B3
- *  @version mp6
- *  @version 04-29-2017
- *  The logic used to simulate a gate is largely lifted from the
- *  posted solution to Homework 8.
  *
  *  @see Wire
  *  @see MinGate

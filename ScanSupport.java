@@ -2,11 +2,7 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 /** Support methods for scanning input files.
- *  @author Douglas Jones
- *  @version 2017-04-05
- *  This is ripped from RoadNetwork.java version 2017-03-31 with a change:
- *  nextFloat method is added based on the homework and the comments are
- *  somewhat improved.
+ *  @author Ryan Boehm
  *  @see Errors
  */
 public class ScanSupport {

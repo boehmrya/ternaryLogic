@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 /** the negate gate, a fundamental ternary logic gate.
- *  @author Douglas Jones
- *  @version 2017-04-20
- *  This code is largely ripped from Version 2017-04-06, with comment changes.
+ *  @author Ryan Boehm
  *  @see Gate
  */
 public class NegGate extends Gate {

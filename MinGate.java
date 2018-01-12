@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 /** the min operator, a fundamental kind of ternary logic gate.
- *  @author Douglas Jones
- *  @version 2017-04-20
- *  This code is largely ripped from Version 2017-04-06, with comment changes.
+ *  @author Ryan Boehm
  *  @see Gate
  */
 public class MinGate extends Gate {

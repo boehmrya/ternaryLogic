@@ -1,9 +1,7 @@
 import java.util.PriorityQueue;
 
 /** Discrete event simulation support framework
- *  @author Douglas Jones
- *  @version 2017-04-17
- *  A new simulation framework based on lecture from Apr. 17.
+ *  @author Ryan Boehm
  */
 class Simulation {
 

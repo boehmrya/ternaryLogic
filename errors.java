@@ -3,9 +3,7 @@
  *  General purpose error reporting package for command-line applications.
  *  It allows reporting fatal errors and warnings to the user.
  *
- *  @author Douglas Jones
- *  @version 2017-04-05
- *  this code is ripped from RoadNetwork.java version 2017-03-31.
+ *  @author Ryan Boehm
  */
 public class Errors {
 	private Errors(){}; // you may never instantiate this class

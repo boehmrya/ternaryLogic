@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 /** Wires are link by gates.
  *
- *  @author Douglas Jones
- *  @version 2017-04-17
+ *  @author Ryan Boehm
  *
  *  @see Gate
  *  @see Errors
